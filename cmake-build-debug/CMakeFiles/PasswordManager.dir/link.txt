@@ -1,0 +1,3 @@
+C:\Users\temar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\PasswordManager.dir/objects.a
+C:\Users\temar\gcc\bin\ar.exe cr CMakeFiles\PasswordManager.dir/objects.a @CMakeFiles\PasswordManager.dir\objects1.rsp
+C:\Users\temar\gcc\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\PasswordManager.dir/objects.a -Wl,--no-whole-archive -o PasswordManager.exe -Wl,--out-implib,libPasswordManager.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PasswordManager.dir\linklibs.rsp
